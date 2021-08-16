@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://t.me/grildroidcave"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UC9bgH976cQoRUb9IX3d-aGQ"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/grildroid/"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
+  <a href="https://discord.gg/6ZGDgFjDVm" title="Join grildroid's Discord!"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://soundcloud.com/grildroid"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
   <a href="https://vk.com/grildroid"><img alt="VK" src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white"/></a>
 </p>
