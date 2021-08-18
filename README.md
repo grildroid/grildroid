@@ -1,4 +1,6 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu-MonoB&color=7909F7&size=35&center=true&lines=👋+Hello,+i'am+grildroid"/></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu-MonoB&color=7909F7&size=31&center=true&lines=👋+Hello,+i'am+grildroid+"/>
+</p>
 
 ## TECHNOLOGIES
 <p align="center">
